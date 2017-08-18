@@ -6,7 +6,7 @@ This small app simulates animals wandering on a grid.
 
 @ - Represents a Carnivore
 
-\* - Represents a plant
+* - Represents a plant
 ```
 
 Herbivores eat plants. Carnivores eat the herbivores. Each animal starts with the same amount of health, and their health decrements each time they move to a new position on the grid. In order to replenish their health, the animals must eat. The animals die once their health reaches 0 and they are removed from the grid.
